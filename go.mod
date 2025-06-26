@@ -1,4 +1,4 @@
-module GoTasker
+module github.com/Cyb3r3x3r/GoTasker
 
 go 1.23.4
 
