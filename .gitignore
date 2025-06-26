@@ -1,0 +1,34 @@
+# Binaries
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Go workspace and tools
+bin/
+pkg/
+vendor/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Compiled files
+GoTasker  # if binary is built with `go build`
+
+# Exported data
+tasks_export.csv
+
+# Environment/config (if added later)
+.env
+config.json
