@@ -31,5 +31,5 @@ It allows users to register, log in, manage tasks, get reminders, and export tas
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/GoTasker.git
+git clone https://github.com/Cyb3r3x3r/GoTasker.git
 cd GoTasker

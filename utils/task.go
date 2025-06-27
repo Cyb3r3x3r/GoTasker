@@ -1,14 +1,15 @@
 package utils
 
 import (
-	"GoTasker/db"
-	"GoTasker/models"
 	"bufio"
 	"encoding/csv"
 	"fmt"
 	"os"
 	"strings"
 	"time"
+
+	"github.com/Cyb3r3x3r/GoTasker/db"
+	"github.com/Cyb3r3x3r/GoTasker/models"
 )
 
 func CreateTask(userID int) error {

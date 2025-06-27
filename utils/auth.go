@@ -1,12 +1,13 @@
 package utils
 
 import (
-	"GoTasker/db"
-	"GoTasker/models"
 	"bufio"
 	"fmt"
 	"os"
 	"strings"
+
+	"github.com/Cyb3r3x3r/GoTasker/db"
+	"github.com/Cyb3r3x3r/GoTasker/models"
 )
 
 func RegisterUser() (*models.User, error) {

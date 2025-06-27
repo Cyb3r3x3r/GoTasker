@@ -1,9 +1,10 @@
 package utils
 
 import (
-	"GoTasker/db"
 	"fmt"
 	"time"
+
+	"github.com/Cyb3r3x3r/GoTasker/db"
 )
 
 func StartReminder(userID int) {

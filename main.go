@@ -1,12 +1,13 @@
 package main
 
 import (
-	"GoTasker/db"
-	"GoTasker/utils"
 	"bufio"
 	"fmt"
 	"os"
 	"strings"
+
+	"github.com/Cyb3r3x3r/GoTasker/db"
+	"github.com/Cyb3r3x3r/GoTasker/utils"
 )
 
 func main() {
